@@ -1,0 +1,11 @@
+﻿  오목게임만들기.cpp
+c:\users\user\source\repos\오목게임만들기\오목게임만들기\오목게임만들기.cpp(142): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\source\repos\오목게임만들기\오목게임만들기\오목게임만들기.cpp(141): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\source\repos\오목게임만들기\오목게임만들기\오목게임만들기.cpp(164): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\source\repos\오목게임만들기\오목게임만들기\오목게임만들기.cpp(163): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\source\repos\오목게임만들기\오목게임만들기\오목게임만들기.cpp(162): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\source\repos\오목게임만들기\오목게임만들기\오목게임만들기.cpp(161): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\source\repos\오목게임만들기\오목게임만들기\오목게임만들기.cpp(185): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\source\repos\오목게임만들기\오목게임만들기\오목게임만들기.cpp(187): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\source\repos\오목게임만들기\오목게임만들기\오목게임만들기.cpp(186): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  오목게임만들기.vcxproj -> C:\Users\User\source\repos\오목게임만들기\Debug\오목게임만들기.exe
